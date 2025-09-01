@@ -2,15 +2,15 @@
 
 ## 📜 Indice degli Argomenti
 
-  - [Hello World e Introduzione a Concetti Fondamentali](https://www.google.com/search?q=%23hello-world-e-introduzione-a-concetti-fondamentali)
-  - [Variabili e Assegnamento](https://www.google.com/search?q=%23variabili-e-assegnamento)
-  - [Funzioni in C](https://www.google.com/search?q=%23funzioni-in-c)
-  - [Scope delle Variabili: Locali, Globali e Statiche](https://www.google.com/search?q=%23scope-delle-variabili-locali-globali-e-statiche)
-  - [Passaggio di Argomenti alle Funzioni](https://www.google.com/search?q=%23passaggio-di-argomenti-alle-funzioni)
-  - [Tipi di Dato in C: `int`, `float`, `char` e `short`](https://www.google.com/search?q=%23tipi-di-dato-in-c-int-float-char-e-short)
-  - [Promozione dei Tipi](https://www.google.com/search?q=%23promozione-dei-tipi)
-  - [Operatori e Undefined Behavior](https://www.google.com/search?q=%23operatori-e-undefined-behavior)
-  - [Considerazioni Finali](https://www.google.com/search?q=%23considerazioni-finali)
+  - [Hello World e Introduzione a Concetti Fondamentali](#hello-world-e-introduzione-a-concetti-fondamentali)
+  - [Variabili e Assegnamento](#variabili-e-assegnamento)
+  - [Funzioni in C](#funzioni-in-c)
+  - [Scope delle Variabili: Locali, Globali e Statiche](#scope-delle-variabili-locali-globali-e-statiche)
+  - [Passaggio di Argomenti alle Funzioni](#passaggio-di-argomenti-alle-funzioni)
+  - [Tipi di Dato in C: `int`, `float`, `char` e `short`](#tipi-di-dato-in-c-int-float-char-e-short)
+  - [Promozione dei Tipi](#promozione-dei-tipi)
+  - [Operatori e Undefined Behavior](#operatori-e-undefined-behavior)
+  - [Considerazioni Finali](#considerazioni-finali)  - [Hello World e Introduzione a Concetti Fondamentali](#hello-world-e-introduzione-a-concetti-fondamentali)
 
 -----
 
