@@ -1,4 +1,4 @@
-Certo, ecco un'analisi e sintesi della trascrizione video.
+# Impariamo il C: lezione 1
 
 ### Indice degli argomenti
 
